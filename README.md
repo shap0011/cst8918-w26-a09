@@ -16,6 +16,7 @@ The purpose is to enforce code quality locally and validate Terraform configurat
 
 ## Project Structure
 
+```
 cst8918-w26-a09/
 ├── infrastructure/
 │   └── main.tf
@@ -27,7 +28,7 @@ cst8918-w26-a09/
 ├── package.json
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
