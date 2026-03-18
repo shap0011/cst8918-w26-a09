@@ -34,4 +34,7 @@ resource "terraform_data" "example" {
   input = "cst8918-a09"
 }
 
+# resource "terraform_data" "example" { input = "cst8918-a09"
+# }
+
 #--
